@@ -1,4 +1,4 @@
-👋 Hi, I’m Saud Alghamdi!
+Hi, I’m Saud 👋
 
 I'm a Web Developer who is instrested into building software that can make other's lives easier :)
 
